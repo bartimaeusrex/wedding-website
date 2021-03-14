@@ -1,0 +1,53 @@
+
+
+body {
+  background-color:white;
+  background-image: url(bg_deco.png);
+  background-repeat: repeat; 
+}
+
+.center {
+  margin: 0 auto;
+  text-align: center;
+  width: 60%;
+  border-color:gray;
+  padding:2em;
+  font-family: 'Limelight', cursive;
+  color:white;
+  background-color:#242424;
+  height:100%;
+  border-radius:16px;
+}
+
+#weddingvid {
+width:90%;
+height:640px;
+
+}
+
+.rsvp {
+  margin-top:1rem;
+  font-family: 'EB Garamond', serif;
+  font-size:2em;
+}
+
+.rsvp a {
+  color:white;
+  text-decoration: underline dotted grey;
+}
+
+h1 {
+  /* MAKE IT LARGER~!!!! */
+  font-size:2.5rem;
+}
+
+/* .video {
+border:black 1em;
+
+} */
+
+/*
+font-family: 'Limelight', cursive;
+font-family: 'Rochester', cursive;
+font-family: 'EB Garamond', serif;
+*/
